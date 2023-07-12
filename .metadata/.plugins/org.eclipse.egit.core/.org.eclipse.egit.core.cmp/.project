@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.egit.core.cmp</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.egit.core.cmp</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
+>>>>>>> d698a4d487e2ba945d8a4f029b3a30448fa846e4
